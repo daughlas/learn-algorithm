@@ -1,0 +1,31 @@
+Arguments: 
+  /Users/lvjiawen/.nvm/versions/node/v10.16.3/bin/node /usr/local/Cellar/yarn/1.12.3/libexec/bin/yarn.js add @babel/preset-env
+
+PATH: 
+  /usr/local/mysql/bin:/Library/Frameworks/Python.framework/Versions/3.6/bin:/Users/lvjiawen/.nvm/versions/node/v10.16.3/bin:/Users/lvjiawen/development/flutter/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/Users/lvjiawen/Library/Android/sdk/emulator:/Users/lvjiawen/Library/Android/sdk/tools:/Users/lvjiawen/Library/Android/sdk/platform-tools:/Users/lvjiawen/Library/Android/sdk/build-tools
+
+Yarn version: 
+  1.12.3
+
+Node version: 
+  10.16.3
+
+Platform: 
+  darwin x64
+
+Trace: 
+  SyntaxError: /Users/lvjiawen/code/weekends-project/learn-algorithm/package.json: Unexpected end of JSON input
+      at JSON.parse (<anonymous>)
+      at /usr/local/Cellar/yarn/1.12.3/libexec/lib/cli.js:1631:59
+      at Generator.next (<anonymous>)
+      at step (/usr/local/Cellar/yarn/1.12.3/libexec/lib/cli.js:304:30)
+      at /usr/local/Cellar/yarn/1.12.3/libexec/lib/cli.js:315:13
+
+npm manifest: 
+  
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
